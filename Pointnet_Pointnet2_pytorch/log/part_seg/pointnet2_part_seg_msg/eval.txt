@@ -1,0 +1,486 @@
+2024-10-27 21:55:36,025 - Model - INFO - PARAMETER ...
+2024-10-27 21:55:36,025 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='pointnet2_part_seg_msg', normal=True, num_votes=3)
+2024-10-27 21:55:44,285 - Model - INFO - PARAMETER ...
+2024-10-27 21:55:44,285 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='pointnet2_part_seg_msg', normal=True, num_votes=3)
+2024-10-27 21:55:44,348 - Model - INFO - The number of test data is: 2874
+2024-10-27 21:56:01,442 - Model - INFO - PARAMETER ...
+2024-10-27 21:56:01,442 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3)
+2024-10-27 21:56:01,525 - Model - INFO - The number of test data is: 2874
+2024-10-27 21:59:52,934 - Model - INFO - PARAMETER ...
+2024-10-27 21:59:52,934 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3)
+2024-10-27 22:02:29,270 - Model - INFO - PARAMETER ...
+2024-10-27 22:02:29,271 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3)
+2024-10-27 22:02:29,360 - Model - INFO - The number of test data is: 2874
+2024-10-27 22:09:45,318 - Model - INFO - PARAMETER ...
+2024-10-27 22:09:45,322 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3)
+2024-10-27 22:09:45,450 - Model - INFO - The number of test data is: 2874
+2024-10-27 22:11:08,202 - Model - INFO - PARAMETER ...
+2024-10-27 22:11:08,203 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3)
+2024-10-27 22:11:08,319 - Model - INFO - The number of test data is: 2874
+2024-10-27 22:11:51,692 - Model - INFO - PARAMETER ...
+2024-10-27 22:11:51,693 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3)
+2024-10-27 22:11:51,797 - Model - INFO - The number of test data is: 2874
+2024-10-27 22:12:42,508 - Model - INFO - PARAMETER ...
+2024-10-27 22:12:42,509 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3)
+2024-10-27 22:12:42,708 - Model - INFO - The number of test data is: 2874
+2024-10-27 22:22:00,418 - Model - INFO - PARAMETER ...
+2024-10-27 22:22:00,419 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3)
+2024-10-27 22:22:00,520 - Model - INFO - The number of test data is: 2874
+2024-10-27 22:22:52,128 - Model - INFO - PARAMETER ...
+2024-10-27 22:22:52,129 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3, use_cpu=False)
+2024-10-27 22:22:52,230 - Model - INFO - The number of test data is: 2874
+2024-10-27 23:03:26,919 - Model - INFO - PARAMETER ...
+2024-10-27 23:03:26,920 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3, use_cpu=False)
+2024-10-27 23:03:27,035 - Model - INFO - The number of test data is: 2874
+2024-10-27 23:15:44,856 - Model - INFO - eval mIoU of Airplane       0.830779
+2024-10-27 23:15:44,857 - Model - INFO - eval mIoU of Bag            0.832705
+2024-10-27 23:15:44,857 - Model - INFO - eval mIoU of Cap            0.863016
+2024-10-27 23:15:44,857 - Model - INFO - eval mIoU of Car            0.791730
+2024-10-27 23:15:44,857 - Model - INFO - eval mIoU of Chair          0.907768
+2024-10-27 23:15:44,857 - Model - INFO - eval mIoU of Earphone       0.725799
+2024-10-27 23:15:44,857 - Model - INFO - eval mIoU of Guitar         0.910133
+2024-10-27 23:15:44,857 - Model - INFO - eval mIoU of Knife          0.876579
+2024-10-27 23:15:44,857 - Model - INFO - eval mIoU of Lamp           0.847602
+2024-10-27 23:15:44,857 - Model - INFO - eval mIoU of Laptop         0.956145
+2024-10-27 23:15:44,857 - Model - INFO - eval mIoU of Motorbike      0.740903
+2024-10-27 23:15:44,858 - Model - INFO - eval mIoU of Mug            0.956960
+2024-10-27 23:15:44,858 - Model - INFO - eval mIoU of Pistol         0.824978
+2024-10-27 23:15:44,858 - Model - INFO - eval mIoU of Rocket         0.605489
+2024-10-27 23:15:44,858 - Model - INFO - eval mIoU of Skateboard     0.762943
+2024-10-27 23:15:44,858 - Model - INFO - eval mIoU of Table          0.830064
+2024-10-27 23:15:45,084 - Model - INFO - Accuracy is: 0.94447
+2024-10-27 23:15:45,085 - Model - INFO - Class avg accuracy is: 0.87664
+2024-10-27 23:15:45,085 - Model - INFO - Class avg mIOU is: 0.82897
+2024-10-27 23:15:45,085 - Model - INFO - Inctance avg mIOU is: 0.85617
+2024-10-27 23:24:11,620 - Model - INFO - PARAMETER ...
+2024-10-27 23:24:11,620 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3, use_cpu=False)
+2024-10-27 23:24:11,666 - Model - INFO - The number of test data is: 3
+2024-10-27 23:24:18,532 - Model - INFO - eval mIoU of Airplane       nan
+2024-10-27 23:24:18,532 - Model - INFO - eval mIoU of Bag            nan
+2024-10-27 23:24:18,532 - Model - INFO - eval mIoU of Cap            nan
+2024-10-27 23:24:18,532 - Model - INFO - eval mIoU of Car            0.871410
+2024-10-27 23:24:18,533 - Model - INFO - eval mIoU of Chair          nan
+2024-10-27 23:24:18,533 - Model - INFO - eval mIoU of Earphone       nan
+2024-10-27 23:24:18,533 - Model - INFO - eval mIoU of Guitar         nan
+2024-10-27 23:24:18,533 - Model - INFO - eval mIoU of Knife          nan
+2024-10-27 23:24:18,533 - Model - INFO - eval mIoU of Lamp           nan
+2024-10-27 23:24:18,533 - Model - INFO - eval mIoU of Laptop         nan
+2024-10-27 23:24:18,533 - Model - INFO - eval mIoU of Motorbike      nan
+2024-10-27 23:24:18,533 - Model - INFO - eval mIoU of Mug            nan
+2024-10-27 23:24:18,533 - Model - INFO - eval mIoU of Pistol         nan
+2024-10-27 23:24:18,533 - Model - INFO - eval mIoU of Rocket         nan
+2024-10-27 23:24:18,534 - Model - INFO - eval mIoU of Skateboard     nan
+2024-10-27 23:24:18,534 - Model - INFO - eval mIoU of Table          nan
+2024-10-27 23:24:18,580 - Model - INFO - Accuracy is: 0.96094
+2024-10-27 23:24:18,580 - Model - INFO - Class avg accuracy is: nan
+2024-10-27 23:24:18,581 - Model - INFO - Class avg mIOU is: nan
+2024-10-27 23:24:18,581 - Model - INFO - Inctance avg mIOU is: 0.87141
+2024-10-27 23:24:33,361 - Model - INFO - PARAMETER ...
+2024-10-27 23:24:33,362 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3, use_cpu=False)
+2024-10-27 23:24:33,408 - Model - INFO - The number of test data is: 3
+2024-10-27 23:24:40,131 - Model - INFO - eval mIoU of Airplane       nan
+2024-10-27 23:24:40,131 - Model - INFO - eval mIoU of Bag            nan
+2024-10-27 23:24:40,131 - Model - INFO - eval mIoU of Cap            nan
+2024-10-27 23:24:40,132 - Model - INFO - eval mIoU of Car            0.879814
+2024-10-27 23:24:40,132 - Model - INFO - eval mIoU of Chair          nan
+2024-10-27 23:24:40,132 - Model - INFO - eval mIoU of Earphone       nan
+2024-10-27 23:24:40,132 - Model - INFO - eval mIoU of Guitar         nan
+2024-10-27 23:24:40,132 - Model - INFO - eval mIoU of Knife          nan
+2024-10-27 23:24:40,132 - Model - INFO - eval mIoU of Lamp           nan
+2024-10-27 23:24:40,132 - Model - INFO - eval mIoU of Laptop         nan
+2024-10-27 23:24:40,132 - Model - INFO - eval mIoU of Motorbike      nan
+2024-10-27 23:24:40,132 - Model - INFO - eval mIoU of Mug            nan
+2024-10-27 23:24:40,133 - Model - INFO - eval mIoU of Pistol         nan
+2024-10-27 23:24:40,133 - Model - INFO - eval mIoU of Rocket         nan
+2024-10-27 23:24:40,133 - Model - INFO - eval mIoU of Skateboard     nan
+2024-10-27 23:24:40,133 - Model - INFO - eval mIoU of Table          nan
+2024-10-27 23:24:40,176 - Model - INFO - Accuracy is: 0.96598
+2024-10-27 23:24:40,176 - Model - INFO - Class avg accuracy is: nan
+2024-10-27 23:24:40,176 - Model - INFO - Class avg mIOU is: nan
+2024-10-27 23:24:40,176 - Model - INFO - Inctance avg mIOU is: 0.87981
+2024-10-28 10:05:43,662 - Model - INFO - PARAMETER ...
+2024-10-28 10:05:43,665 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3, use_cpu=False)
+2024-10-28 10:05:43,713 - Model - INFO - The number of test data is: 3
+2024-10-28 10:11:39,875 - Model - INFO - PARAMETER ...
+2024-10-28 10:11:39,875 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3, use_cpu=False)
+2024-10-28 10:11:39,927 - Model - INFO - The number of test data is: 3
+2024-10-28 10:12:12,228 - Model - INFO - PARAMETER ...
+2024-10-28 10:12:12,229 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3, use_cpu=False)
+2024-10-28 10:12:12,274 - Model - INFO - The number of test data is: 3
+2024-10-28 10:14:00,983 - Model - INFO - PARAMETER ...
+2024-10-28 10:14:00,984 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3, use_cpu=False)
+2024-10-28 10:14:01,033 - Model - INFO - The number of test data is: 3
+2024-10-28 10:14:49,944 - Model - INFO - PARAMETER ...
+2024-10-28 10:14:49,948 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3, use_cpu=False)
+2024-10-28 10:14:50,038 - Model - INFO - The number of test data is: 3
+2024-10-28 10:15:14,784 - Model - INFO - PARAMETER ...
+2024-10-28 10:15:14,784 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3, use_cpu=False)
+2024-10-28 10:15:14,830 - Model - INFO - The number of test data is: 3
+2024-10-28 10:15:26,050 - Model - INFO - eval mIoU of Airplane       nan
+2024-10-28 10:15:26,050 - Model - INFO - eval mIoU of Bag            nan
+2024-10-28 10:15:26,050 - Model - INFO - eval mIoU of Cap            nan
+2024-10-28 10:15:26,050 - Model - INFO - eval mIoU of Car            0.891228
+2024-10-28 10:15:26,051 - Model - INFO - eval mIoU of Chair          nan
+2024-10-28 10:15:26,051 - Model - INFO - eval mIoU of Earphone       nan
+2024-10-28 10:15:26,051 - Model - INFO - eval mIoU of Guitar         nan
+2024-10-28 10:15:26,051 - Model - INFO - eval mIoU of Knife          nan
+2024-10-28 10:15:26,051 - Model - INFO - eval mIoU of Lamp           nan
+2024-10-28 10:15:26,051 - Model - INFO - eval mIoU of Laptop         nan
+2024-10-28 10:15:26,051 - Model - INFO - eval mIoU of Motorbike      nan
+2024-10-28 10:15:26,051 - Model - INFO - eval mIoU of Mug            nan
+2024-10-28 10:15:26,051 - Model - INFO - eval mIoU of Pistol         nan
+2024-10-28 10:15:26,051 - Model - INFO - eval mIoU of Rocket         nan
+2024-10-28 10:15:26,052 - Model - INFO - eval mIoU of Skateboard     nan
+2024-10-28 10:15:26,052 - Model - INFO - eval mIoU of Table          nan
+2024-10-28 10:15:26,098 - Model - INFO - Accuracy is: 0.96631
+2024-10-28 10:15:26,098 - Model - INFO - Class avg accuracy is: nan
+2024-10-28 10:15:26,099 - Model - INFO - Class avg mIOU is: nan
+2024-10-28 10:15:26,099 - Model - INFO - Inctance avg mIOU is: 0.89123
+2024-10-28 10:18:47,119 - Model - INFO - PARAMETER ...
+2024-10-28 10:18:47,123 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3, use_cpu=False)
+2024-10-28 10:18:47,200 - Model - INFO - The number of test data is: 3
+2024-10-28 10:18:58,436 - Model - INFO - eval mIoU of Airplane       nan
+2024-10-28 10:18:58,436 - Model - INFO - eval mIoU of Bag            nan
+2024-10-28 10:18:58,439 - Model - INFO - eval mIoU of Cap            nan
+2024-10-28 10:18:58,439 - Model - INFO - eval mIoU of Car            0.862400
+2024-10-28 10:18:58,439 - Model - INFO - eval mIoU of Chair          nan
+2024-10-28 10:18:58,440 - Model - INFO - eval mIoU of Earphone       nan
+2024-10-28 10:18:58,440 - Model - INFO - eval mIoU of Guitar         nan
+2024-10-28 10:18:58,440 - Model - INFO - eval mIoU of Knife          nan
+2024-10-28 10:18:58,440 - Model - INFO - eval mIoU of Lamp           nan
+2024-10-28 10:18:58,440 - Model - INFO - eval mIoU of Laptop         nan
+2024-10-28 10:18:58,440 - Model - INFO - eval mIoU of Motorbike      nan
+2024-10-28 10:18:58,440 - Model - INFO - eval mIoU of Mug            nan
+2024-10-28 10:18:58,440 - Model - INFO - eval mIoU of Pistol         nan
+2024-10-28 10:18:58,440 - Model - INFO - eval mIoU of Rocket         nan
+2024-10-28 10:18:58,441 - Model - INFO - eval mIoU of Skateboard     nan
+2024-10-28 10:18:58,441 - Model - INFO - eval mIoU of Table          nan
+2024-10-28 10:22:14,226 - Model - INFO - PARAMETER ...
+2024-10-28 10:22:14,227 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3, use_cpu=False)
+2024-10-28 10:22:14,277 - Model - INFO - The number of test data is: 3
+2024-10-28 10:23:29,176 - Model - INFO - PARAMETER ...
+2024-10-28 10:23:29,177 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3, use_cpu=False)
+2024-10-28 10:23:29,251 - Model - INFO - The number of test data is: 3
+2024-10-28 10:23:40,689 - Model - INFO - eval mIoU of Airplane       nan
+2024-10-28 10:23:40,689 - Model - INFO - eval mIoU of Bag            nan
+2024-10-28 10:23:40,690 - Model - INFO - eval mIoU of Cap            nan
+2024-10-28 10:23:40,690 - Model - INFO - eval mIoU of Car            0.866662
+2024-10-28 10:23:40,690 - Model - INFO - eval mIoU of Chair          nan
+2024-10-28 10:23:40,690 - Model - INFO - eval mIoU of Earphone       nan
+2024-10-28 10:23:40,690 - Model - INFO - eval mIoU of Guitar         nan
+2024-10-28 10:23:40,691 - Model - INFO - eval mIoU of Knife          nan
+2024-10-28 10:23:40,691 - Model - INFO - eval mIoU of Lamp           nan
+2024-10-28 10:23:40,691 - Model - INFO - eval mIoU of Laptop         nan
+2024-10-28 10:23:40,691 - Model - INFO - eval mIoU of Motorbike      nan
+2024-10-28 10:23:40,691 - Model - INFO - eval mIoU of Mug            nan
+2024-10-28 10:23:40,691 - Model - INFO - eval mIoU of Pistol         nan
+2024-10-28 10:23:40,691 - Model - INFO - eval mIoU of Rocket         nan
+2024-10-28 10:23:40,691 - Model - INFO - eval mIoU of Skateboard     nan
+2024-10-28 10:23:40,691 - Model - INFO - eval mIoU of Table          nan
+2024-10-28 10:26:21,532 - Model - INFO - PARAMETER ...
+2024-10-28 10:26:21,533 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3, use_cpu=False)
+2024-10-28 10:26:21,594 - Model - INFO - The number of test data is: 3
+2024-10-28 10:26:32,868 - Model - INFO - eval mIoU of Airplane       nan
+2024-10-28 10:26:32,868 - Model - INFO - eval mIoU of Bag            nan
+2024-10-28 10:26:32,869 - Model - INFO - eval mIoU of Cap            nan
+2024-10-28 10:26:32,869 - Model - INFO - eval mIoU of Car            0.863074
+2024-10-28 10:26:32,869 - Model - INFO - eval mIoU of Chair          nan
+2024-10-28 10:26:32,869 - Model - INFO - eval mIoU of Earphone       nan
+2024-10-28 10:26:32,869 - Model - INFO - eval mIoU of Guitar         nan
+2024-10-28 10:26:32,869 - Model - INFO - eval mIoU of Knife          nan
+2024-10-28 10:26:32,869 - Model - INFO - eval mIoU of Lamp           nan
+2024-10-28 10:26:32,869 - Model - INFO - eval mIoU of Laptop         nan
+2024-10-28 10:26:32,869 - Model - INFO - eval mIoU of Motorbike      nan
+2024-10-28 10:26:32,869 - Model - INFO - eval mIoU of Mug            nan
+2024-10-28 10:26:32,870 - Model - INFO - eval mIoU of Pistol         nan
+2024-10-28 10:26:32,870 - Model - INFO - eval mIoU of Rocket         nan
+2024-10-28 10:26:32,870 - Model - INFO - eval mIoU of Skateboard     nan
+2024-10-28 10:26:32,870 - Model - INFO - eval mIoU of Table          nan
+2024-10-28 10:35:19,553 - Model - INFO - PARAMETER ...
+2024-10-28 10:35:19,554 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3, use_cpu=False)
+2024-10-28 10:35:19,620 - Model - INFO - The number of test data is: 3
+2024-10-28 10:35:38,131 - Model - INFO - eval mIoU of Airplane       nan
+2024-10-28 10:35:38,132 - Model - INFO - eval mIoU of Bag            nan
+2024-10-28 10:35:38,132 - Model - INFO - eval mIoU of Cap            nan
+2024-10-28 10:35:38,132 - Model - INFO - eval mIoU of Car            0.867586
+2024-10-28 10:35:38,132 - Model - INFO - eval mIoU of Chair          nan
+2024-10-28 10:35:38,132 - Model - INFO - eval mIoU of Earphone       nan
+2024-10-28 10:35:38,132 - Model - INFO - eval mIoU of Guitar         nan
+2024-10-28 10:35:38,133 - Model - INFO - eval mIoU of Knife          nan
+2024-10-28 10:35:38,133 - Model - INFO - eval mIoU of Lamp           nan
+2024-10-28 10:35:38,133 - Model - INFO - eval mIoU of Laptop         nan
+2024-10-28 10:35:38,133 - Model - INFO - eval mIoU of Motorbike      nan
+2024-10-28 10:35:38,133 - Model - INFO - eval mIoU of Mug            nan
+2024-10-28 10:35:38,133 - Model - INFO - eval mIoU of Pistol         nan
+2024-10-28 10:35:38,133 - Model - INFO - eval mIoU of Rocket         nan
+2024-10-28 10:35:38,133 - Model - INFO - eval mIoU of Skateboard     nan
+2024-10-28 10:35:38,133 - Model - INFO - eval mIoU of Table          nan
+2024-10-28 10:36:13,385 - Model - INFO - PARAMETER ...
+2024-10-28 10:36:13,386 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3, use_cpu=False)
+2024-10-28 10:36:13,467 - Model - INFO - The number of test data is: 3
+2024-10-28 10:36:41,640 - Model - INFO - eval mIoU of Airplane       nan
+2024-10-28 10:36:41,640 - Model - INFO - eval mIoU of Bag            nan
+2024-10-28 10:36:41,640 - Model - INFO - eval mIoU of Cap            nan
+2024-10-28 10:36:41,641 - Model - INFO - eval mIoU of Car            0.873549
+2024-10-28 10:36:41,641 - Model - INFO - eval mIoU of Chair          nan
+2024-10-28 10:36:41,641 - Model - INFO - eval mIoU of Earphone       nan
+2024-10-28 10:36:41,641 - Model - INFO - eval mIoU of Guitar         nan
+2024-10-28 10:36:41,641 - Model - INFO - eval mIoU of Knife          nan
+2024-10-28 10:36:41,641 - Model - INFO - eval mIoU of Lamp           nan
+2024-10-28 10:36:41,641 - Model - INFO - eval mIoU of Laptop         nan
+2024-10-28 10:36:41,641 - Model - INFO - eval mIoU of Motorbike      nan
+2024-10-28 10:36:41,641 - Model - INFO - eval mIoU of Mug            nan
+2024-10-28 10:36:41,641 - Model - INFO - eval mIoU of Pistol         nan
+2024-10-28 10:36:41,641 - Model - INFO - eval mIoU of Rocket         nan
+2024-10-28 10:36:41,642 - Model - INFO - eval mIoU of Skateboard     nan
+2024-10-28 10:36:41,642 - Model - INFO - eval mIoU of Table          nan
+2024-10-28 10:36:49,460 - Model - INFO - PARAMETER ...
+2024-10-28 10:36:49,461 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3, use_cpu=False)
+2024-10-28 10:36:49,545 - Model - INFO - The number of test data is: 3
+2024-10-28 10:37:04,485 - Model - INFO - eval mIoU of Airplane       nan
+2024-10-28 10:37:04,485 - Model - INFO - eval mIoU of Bag            nan
+2024-10-28 10:37:04,485 - Model - INFO - eval mIoU of Cap            nan
+2024-10-28 10:37:04,485 - Model - INFO - eval mIoU of Car            0.851721
+2024-10-28 10:37:04,485 - Model - INFO - eval mIoU of Chair          nan
+2024-10-28 10:37:04,485 - Model - INFO - eval mIoU of Earphone       nan
+2024-10-28 10:37:04,486 - Model - INFO - eval mIoU of Guitar         nan
+2024-10-28 10:37:04,486 - Model - INFO - eval mIoU of Knife          nan
+2024-10-28 10:37:04,486 - Model - INFO - eval mIoU of Lamp           nan
+2024-10-28 10:37:04,486 - Model - INFO - eval mIoU of Laptop         nan
+2024-10-28 10:37:04,487 - Model - INFO - eval mIoU of Motorbike      nan
+2024-10-28 10:37:04,487 - Model - INFO - eval mIoU of Mug            nan
+2024-10-28 10:37:04,487 - Model - INFO - eval mIoU of Pistol         nan
+2024-10-28 10:37:04,487 - Model - INFO - eval mIoU of Rocket         nan
+2024-10-28 10:37:04,487 - Model - INFO - eval mIoU of Skateboard     nan
+2024-10-28 10:37:04,487 - Model - INFO - eval mIoU of Table          nan
+2024-10-28 10:37:13,462 - Model - INFO - PARAMETER ...
+2024-10-28 10:37:13,463 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3, use_cpu=False)
+2024-10-28 10:37:13,545 - Model - INFO - The number of test data is: 3
+2024-10-28 10:37:36,026 - Model - INFO - eval mIoU of Airplane       nan
+2024-10-28 10:37:36,026 - Model - INFO - eval mIoU of Bag            nan
+2024-10-28 10:37:36,027 - Model - INFO - eval mIoU of Cap            nan
+2024-10-28 10:37:36,027 - Model - INFO - eval mIoU of Car            0.866375
+2024-10-28 10:37:36,027 - Model - INFO - eval mIoU of Chair          nan
+2024-10-28 10:37:36,027 - Model - INFO - eval mIoU of Earphone       nan
+2024-10-28 10:37:36,027 - Model - INFO - eval mIoU of Guitar         nan
+2024-10-28 10:37:36,027 - Model - INFO - eval mIoU of Knife          nan
+2024-10-28 10:37:36,027 - Model - INFO - eval mIoU of Lamp           nan
+2024-10-28 10:37:36,027 - Model - INFO - eval mIoU of Laptop         nan
+2024-10-28 10:37:36,028 - Model - INFO - eval mIoU of Motorbike      nan
+2024-10-28 10:37:36,028 - Model - INFO - eval mIoU of Mug            nan
+2024-10-28 10:37:36,028 - Model - INFO - eval mIoU of Pistol         nan
+2024-10-28 10:37:36,028 - Model - INFO - eval mIoU of Rocket         nan
+2024-10-28 10:37:36,028 - Model - INFO - eval mIoU of Skateboard     nan
+2024-10-28 10:37:36,028 - Model - INFO - eval mIoU of Table          nan
+2024-10-28 10:37:51,760 - Model - INFO - PARAMETER ...
+2024-10-28 10:37:51,760 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3, use_cpu=False)
+2024-10-28 10:37:51,811 - Model - INFO - The number of test data is: 3
+2024-10-28 10:38:07,262 - Model - INFO - eval mIoU of Airplane       nan
+2024-10-28 10:38:07,262 - Model - INFO - eval mIoU of Bag            nan
+2024-10-28 10:38:07,262 - Model - INFO - eval mIoU of Cap            nan
+2024-10-28 10:38:07,262 - Model - INFO - eval mIoU of Car            0.857200
+2024-10-28 10:38:07,263 - Model - INFO - eval mIoU of Chair          nan
+2024-10-28 10:38:07,263 - Model - INFO - eval mIoU of Earphone       nan
+2024-10-28 10:38:07,263 - Model - INFO - eval mIoU of Guitar         nan
+2024-10-28 10:38:07,263 - Model - INFO - eval mIoU of Knife          nan
+2024-10-28 10:38:07,263 - Model - INFO - eval mIoU of Lamp           nan
+2024-10-28 10:38:07,263 - Model - INFO - eval mIoU of Laptop         nan
+2024-10-28 10:38:07,263 - Model - INFO - eval mIoU of Motorbike      nan
+2024-10-28 10:38:07,263 - Model - INFO - eval mIoU of Mug            nan
+2024-10-28 10:38:07,263 - Model - INFO - eval mIoU of Pistol         nan
+2024-10-28 10:38:07,263 - Model - INFO - eval mIoU of Rocket         nan
+2024-10-28 10:38:07,263 - Model - INFO - eval mIoU of Skateboard     nan
+2024-10-28 10:38:07,263 - Model - INFO - eval mIoU of Table          nan
+2024-10-28 10:38:44,355 - Model - INFO - PARAMETER ...
+2024-10-28 10:38:44,357 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3, use_cpu=False)
+2024-10-28 10:38:44,436 - Model - INFO - The number of test data is: 3
+2024-10-28 15:09:40,315 - Model - INFO - PARAMETER ...
+2024-10-28 15:09:40,315 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3, use_cpu=False)
+2024-10-28 15:09:40,358 - Model - INFO - The number of test data is: 3
+2024-10-28 15:09:53,932 - Model - INFO - eval mIoU of Airplane       nan
+2024-10-28 15:09:53,933 - Model - INFO - eval mIoU of Bag            nan
+2024-10-28 15:09:53,933 - Model - INFO - eval mIoU of Cap            nan
+2024-10-28 15:09:53,933 - Model - INFO - eval mIoU of Car            0.871218
+2024-10-28 15:09:53,933 - Model - INFO - eval mIoU of Chair          nan
+2024-10-28 15:09:53,933 - Model - INFO - eval mIoU of Earphone       nan
+2024-10-28 15:09:53,933 - Model - INFO - eval mIoU of Guitar         nan
+2024-10-28 15:09:53,933 - Model - INFO - eval mIoU of Knife          nan
+2024-10-28 15:09:53,934 - Model - INFO - eval mIoU of Lamp           nan
+2024-10-28 15:09:53,934 - Model - INFO - eval mIoU of Laptop         nan
+2024-10-28 15:09:53,934 - Model - INFO - eval mIoU of Motorbike      nan
+2024-10-28 15:09:53,934 - Model - INFO - eval mIoU of Mug            nan
+2024-10-28 15:09:53,934 - Model - INFO - eval mIoU of Pistol         nan
+2024-10-28 15:09:53,934 - Model - INFO - eval mIoU of Rocket         nan
+2024-10-28 15:09:53,934 - Model - INFO - eval mIoU of Skateboard     nan
+2024-10-28 15:09:53,934 - Model - INFO - eval mIoU of Table          nan
+2024-10-28 15:10:44,407 - Model - INFO - PARAMETER ...
+2024-10-28 15:10:44,409 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3, use_cpu=False)
+2024-10-28 15:10:44,456 - Model - INFO - The number of test data is: 3
+2024-10-28 15:10:57,990 - Model - INFO - eval mIoU of Airplane       nan
+2024-10-28 15:10:57,990 - Model - INFO - eval mIoU of Bag            nan
+2024-10-28 15:10:57,990 - Model - INFO - eval mIoU of Cap            nan
+2024-10-28 15:10:57,990 - Model - INFO - eval mIoU of Car            0.870527
+2024-10-28 15:10:57,991 - Model - INFO - eval mIoU of Chair          nan
+2024-10-28 15:10:57,991 - Model - INFO - eval mIoU of Earphone       nan
+2024-10-28 15:10:57,991 - Model - INFO - eval mIoU of Guitar         nan
+2024-10-28 15:10:57,991 - Model - INFO - eval mIoU of Knife          nan
+2024-10-28 15:10:57,991 - Model - INFO - eval mIoU of Lamp           nan
+2024-10-28 15:10:57,991 - Model - INFO - eval mIoU of Laptop         nan
+2024-10-28 15:10:57,991 - Model - INFO - eval mIoU of Motorbike      nan
+2024-10-28 15:10:57,991 - Model - INFO - eval mIoU of Mug            nan
+2024-10-28 15:10:57,991 - Model - INFO - eval mIoU of Pistol         nan
+2024-10-28 15:10:57,991 - Model - INFO - eval mIoU of Rocket         nan
+2024-10-28 15:10:57,991 - Model - INFO - eval mIoU of Skateboard     nan
+2024-10-28 15:10:57,991 - Model - INFO - eval mIoU of Table          nan
+2024-10-28 15:11:47,542 - Model - INFO - PARAMETER ...
+2024-10-28 15:11:47,543 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3, use_cpu=False)
+2024-10-28 15:11:47,610 - Model - INFO - The number of test data is: 3
+2024-10-28 15:11:58,372 - Model - INFO - eval mIoU of Airplane       nan
+2024-10-28 15:11:58,372 - Model - INFO - eval mIoU of Bag            nan
+2024-10-28 15:11:58,375 - Model - INFO - eval mIoU of Cap            nan
+2024-10-28 15:11:58,375 - Model - INFO - eval mIoU of Car            0.862608
+2024-10-28 15:11:58,376 - Model - INFO - eval mIoU of Chair          nan
+2024-10-28 15:11:58,376 - Model - INFO - eval mIoU of Earphone       nan
+2024-10-28 15:11:58,376 - Model - INFO - eval mIoU of Guitar         nan
+2024-10-28 15:11:58,376 - Model - INFO - eval mIoU of Knife          nan
+2024-10-28 15:11:58,376 - Model - INFO - eval mIoU of Lamp           nan
+2024-10-28 15:11:58,376 - Model - INFO - eval mIoU of Laptop         nan
+2024-10-28 15:11:58,376 - Model - INFO - eval mIoU of Motorbike      nan
+2024-10-28 15:11:58,376 - Model - INFO - eval mIoU of Mug            nan
+2024-10-28 15:11:58,376 - Model - INFO - eval mIoU of Pistol         nan
+2024-10-28 15:11:58,377 - Model - INFO - eval mIoU of Rocket         nan
+2024-10-28 15:11:58,377 - Model - INFO - eval mIoU of Skateboard     nan
+2024-10-28 15:11:58,377 - Model - INFO - eval mIoU of Table          nan
+2024-10-28 16:24:57,718 - Model - INFO - PARAMETER ...
+2024-10-28 16:24:57,718 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3, use_cpu=False)
+2024-10-28 16:24:57,782 - Model - INFO - The number of test data is: 3
+2024-10-28 16:25:13,701 - Model - INFO - eval mIoU of Airplane       nan
+2024-10-28 16:25:13,701 - Model - INFO - eval mIoU of Bag            nan
+2024-10-28 16:25:13,702 - Model - INFO - eval mIoU of Cap            nan
+2024-10-28 16:25:13,702 - Model - INFO - eval mIoU of Car            0.856354
+2024-10-28 16:25:13,702 - Model - INFO - eval mIoU of Chair          nan
+2024-10-28 16:25:13,702 - Model - INFO - eval mIoU of Earphone       nan
+2024-10-28 16:25:13,702 - Model - INFO - eval mIoU of Guitar         nan
+2024-10-28 16:25:13,702 - Model - INFO - eval mIoU of Knife          nan
+2024-10-28 16:25:13,702 - Model - INFO - eval mIoU of Lamp           nan
+2024-10-28 16:25:13,702 - Model - INFO - eval mIoU of Laptop         nan
+2024-10-28 16:25:13,703 - Model - INFO - eval mIoU of Motorbike      nan
+2024-10-28 16:25:13,703 - Model - INFO - eval mIoU of Mug            nan
+2024-10-28 16:25:13,703 - Model - INFO - eval mIoU of Pistol         nan
+2024-10-28 16:25:13,703 - Model - INFO - eval mIoU of Rocket         nan
+2024-10-28 16:25:13,703 - Model - INFO - eval mIoU of Skateboard     nan
+2024-10-28 16:25:13,703 - Model - INFO - eval mIoU of Table          nan
+2024-10-28 20:51:45,693 - Model - INFO - PARAMETER ...
+2024-10-28 20:51:45,694 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3, use_cpu=False)
+2024-10-28 20:51:45,742 - Model - INFO - The number of test data is: 3
+2024-10-28 20:51:57,892 - Model - INFO - eval mIoU of Airplane       nan
+2024-10-28 20:51:57,893 - Model - INFO - eval mIoU of Bag            nan
+2024-10-28 20:51:57,893 - Model - INFO - eval mIoU of Cap            nan
+2024-10-28 20:51:57,893 - Model - INFO - eval mIoU of Car            0.866956
+2024-10-28 20:51:57,893 - Model - INFO - eval mIoU of Chair          nan
+2024-10-28 20:51:57,893 - Model - INFO - eval mIoU of Earphone       nan
+2024-10-28 20:51:57,893 - Model - INFO - eval mIoU of Guitar         nan
+2024-10-28 20:51:57,893 - Model - INFO - eval mIoU of Knife          nan
+2024-10-28 20:51:57,893 - Model - INFO - eval mIoU of Lamp           nan
+2024-10-28 20:51:57,893 - Model - INFO - eval mIoU of Laptop         nan
+2024-10-28 20:51:57,894 - Model - INFO - eval mIoU of Motorbike      nan
+2024-10-28 20:51:57,894 - Model - INFO - eval mIoU of Mug            nan
+2024-10-28 20:51:57,894 - Model - INFO - eval mIoU of Pistol         nan
+2024-10-28 20:51:57,894 - Model - INFO - eval mIoU of Rocket         nan
+2024-10-28 20:51:57,894 - Model - INFO - eval mIoU of Skateboard     nan
+2024-10-28 20:51:57,894 - Model - INFO - eval mIoU of Table          nan
+2024-10-28 20:57:07,298 - Model - INFO - PARAMETER ...
+2024-10-28 20:57:07,302 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3, use_cpu=False)
+2024-10-28 20:57:07,374 - Model - INFO - The number of test data is: 3
+2024-10-28 20:57:18,845 - Model - INFO - eval mIoU of Airplane       nan
+2024-10-28 20:57:18,846 - Model - INFO - eval mIoU of Bag            nan
+2024-10-28 20:57:18,846 - Model - INFO - eval mIoU of Cap            nan
+2024-10-28 20:57:18,846 - Model - INFO - eval mIoU of Car            0.872050
+2024-10-28 20:57:18,846 - Model - INFO - eval mIoU of Chair          nan
+2024-10-28 20:57:18,846 - Model - INFO - eval mIoU of Earphone       nan
+2024-10-28 20:57:18,846 - Model - INFO - eval mIoU of Guitar         nan
+2024-10-28 20:57:18,847 - Model - INFO - eval mIoU of Knife          nan
+2024-10-28 20:57:18,847 - Model - INFO - eval mIoU of Lamp           nan
+2024-10-28 20:57:18,847 - Model - INFO - eval mIoU of Laptop         nan
+2024-10-28 20:57:18,847 - Model - INFO - eval mIoU of Motorbike      nan
+2024-10-28 20:57:18,847 - Model - INFO - eval mIoU of Mug            nan
+2024-10-28 20:57:18,847 - Model - INFO - eval mIoU of Pistol         nan
+2024-10-28 20:57:18,847 - Model - INFO - eval mIoU of Rocket         nan
+2024-10-28 20:57:18,847 - Model - INFO - eval mIoU of Skateboard     nan
+2024-10-28 20:57:18,847 - Model - INFO - eval mIoU of Table          nan
+2024-10-28 20:57:18,888 - Model - INFO - Accuracy is: 0.96305
+2024-10-28 20:57:18,888 - Model - INFO - Class avg accuracy is: nan
+2024-10-28 20:57:18,888 - Model - INFO - Class avg mIOU is: nan
+2024-10-28 20:57:18,888 - Model - INFO - Inctance avg mIOU is: 0.87205
+2024-10-28 21:17:26,408 - Model - INFO - PARAMETER ...
+2024-10-28 21:17:26,410 - Model - INFO - Namespace(batch_size=24, calib_path='', ckpt='pretrained/epoch_160.pth', gpu='0', log_dir='pointnet2_part_seg_msg', no_cuda=False, normal=True, num_point=2048, num_votes=3, pc_path='dataset/demo_data/val/000134.bin', use_cpu=False)
+2024-10-28 21:17:26,464 - Model - INFO - The number of test data is: 3
+2024-10-28 21:18:48,128 - Model - INFO - PARAMETER ...
+2024-10-28 21:18:48,129 - Model - INFO - Namespace(batch_size=24, calib_path='', ckpt='pretrained/epoch_160.pth', gpu='0', log_dir='pointnet2_part_seg_msg', no_cuda=False, normal=True, num_point=2048, num_votes=3, pc_path='dataset/demo_data/val/000134.bin', use_cpu=False)
+2024-10-28 21:18:48,180 - Model - INFO - The number of test data is: 3
+2024-10-28 21:18:53,294 - Model - INFO - eval mIoU of Airplane       nan
+2024-10-28 21:18:53,295 - Model - INFO - eval mIoU of Bag            nan
+2024-10-28 21:18:53,297 - Model - INFO - eval mIoU of Cap            nan
+2024-10-28 21:18:53,298 - Model - INFO - eval mIoU of Car            0.878147
+2024-10-28 21:18:53,298 - Model - INFO - eval mIoU of Chair          nan
+2024-10-28 21:18:53,298 - Model - INFO - eval mIoU of Earphone       nan
+2024-10-28 21:18:53,298 - Model - INFO - eval mIoU of Guitar         nan
+2024-10-28 21:18:53,298 - Model - INFO - eval mIoU of Knife          nan
+2024-10-28 21:18:53,298 - Model - INFO - eval mIoU of Lamp           nan
+2024-10-28 21:18:53,298 - Model - INFO - eval mIoU of Laptop         nan
+2024-10-28 21:18:53,298 - Model - INFO - eval mIoU of Motorbike      nan
+2024-10-28 21:18:53,298 - Model - INFO - eval mIoU of Mug            nan
+2024-10-28 21:18:53,299 - Model - INFO - eval mIoU of Pistol         nan
+2024-10-28 21:18:53,299 - Model - INFO - eval mIoU of Rocket         nan
+2024-10-28 21:18:53,299 - Model - INFO - eval mIoU of Skateboard     nan
+2024-10-28 21:18:53,299 - Model - INFO - eval mIoU of Table          nan
+2024-10-28 21:19:10,774 - Model - INFO - Accuracy is: 0.96533
+2024-10-28 21:19:10,775 - Model - INFO - Class avg accuracy is: nan
+2024-10-28 21:19:10,775 - Model - INFO - Class avg mIOU is: nan
+2024-10-28 21:19:10,775 - Model - INFO - Inctance avg mIOU is: 0.87815
+2024-10-28 21:19:31,835 - Model - INFO - PARAMETER ...
+2024-10-28 21:19:31,836 - Model - INFO - Namespace(batch_size=24, calib_path='', ckpt='pretrained/epoch_160.pth', gpu='0', log_dir='pointnet2_part_seg_msg', no_cuda=False, normal=True, num_point=2048, num_votes=3, pc_path='dataset/demo_data/val/000134.bin', use_cpu=False)
+2024-10-28 21:19:31,897 - Model - INFO - The number of test data is: 3
+2024-10-28 21:19:37,042 - Model - INFO - eval mIoU of Airplane       nan
+2024-10-28 21:19:37,042 - Model - INFO - eval mIoU of Bag            nan
+2024-10-28 21:19:37,042 - Model - INFO - eval mIoU of Cap            nan
+2024-10-28 21:19:37,042 - Model - INFO - eval mIoU of Car            0.855589
+2024-10-28 21:19:37,043 - Model - INFO - eval mIoU of Chair          nan
+2024-10-28 21:19:37,043 - Model - INFO - eval mIoU of Earphone       nan
+2024-10-28 21:19:37,043 - Model - INFO - eval mIoU of Guitar         nan
+2024-10-28 21:19:37,043 - Model - INFO - eval mIoU of Knife          nan
+2024-10-28 21:19:37,043 - Model - INFO - eval mIoU of Lamp           nan
+2024-10-28 21:19:37,043 - Model - INFO - eval mIoU of Laptop         nan
+2024-10-28 21:19:37,043 - Model - INFO - eval mIoU of Motorbike      nan
+2024-10-28 21:19:37,043 - Model - INFO - eval mIoU of Mug            nan
+2024-10-28 21:19:37,043 - Model - INFO - eval mIoU of Pistol         nan
+2024-10-28 21:19:37,043 - Model - INFO - eval mIoU of Rocket         nan
+2024-10-28 21:19:37,043 - Model - INFO - eval mIoU of Skateboard     nan
+2024-10-28 21:19:37,043 - Model - INFO - eval mIoU of Table          nan
+2024-10-28 21:20:03,842 - Model - INFO - Accuracy is: 0.95605
+2024-10-28 21:20:03,843 - Model - INFO - Class avg accuracy is: nan
+2024-10-28 21:20:03,843 - Model - INFO - Class avg mIOU is: nan
+2024-10-28 21:20:03,843 - Model - INFO - Inctance avg mIOU is: 0.85559
+2024-10-28 21:23:10,032 - Model - INFO - PARAMETER ...
+2024-10-28 21:23:10,033 - Model - INFO - Namespace(batch_size=24, calib_path='', ckpt='pretrained/epoch_160.pth', gpu='0', log_dir='pointnet2_part_seg_msg', no_cuda=False, normal=True, num_point=2048, num_votes=3, pc_path='dataset/demo_data/val/000134.bin', use_cpu=False)
+2024-10-28 21:23:10,097 - Model - INFO - The number of test data is: 3
+2024-10-28 21:23:15,420 - Model - INFO - eval mIoU of Airplane       nan
+2024-10-28 21:23:15,420 - Model - INFO - eval mIoU of Bag            nan
+2024-10-28 21:23:15,420 - Model - INFO - eval mIoU of Cap            nan
+2024-10-28 21:23:15,420 - Model - INFO - eval mIoU of Car            0.873612
+2024-10-28 21:23:15,420 - Model - INFO - eval mIoU of Chair          nan
+2024-10-28 21:23:15,421 - Model - INFO - eval mIoU of Earphone       nan
+2024-10-28 21:23:15,421 - Model - INFO - eval mIoU of Guitar         nan
+2024-10-28 21:23:15,421 - Model - INFO - eval mIoU of Knife          nan
+2024-10-28 21:23:15,421 - Model - INFO - eval mIoU of Lamp           nan
+2024-10-28 21:23:15,421 - Model - INFO - eval mIoU of Laptop         nan
+2024-10-28 21:23:15,421 - Model - INFO - eval mIoU of Motorbike      nan
+2024-10-28 21:23:15,421 - Model - INFO - eval mIoU of Mug            nan
+2024-10-28 21:23:15,421 - Model - INFO - eval mIoU of Pistol         nan
+2024-10-28 21:23:15,421 - Model - INFO - eval mIoU of Rocket         nan
+2024-10-28 21:23:15,421 - Model - INFO - eval mIoU of Skateboard     nan
+2024-10-28 21:23:15,421 - Model - INFO - eval mIoU of Table          nan
+2024-10-28 21:23:34,125 - Model - INFO - Accuracy is: 0.96338
+2024-10-28 21:23:34,125 - Model - INFO - Class avg accuracy is: nan
+2024-10-28 21:23:34,126 - Model - INFO - Class avg mIOU is: nan
+2024-10-28 21:23:34,126 - Model - INFO - Inctance avg mIOU is: 0.87361
